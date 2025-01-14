@@ -111,3 +111,45 @@
 # # issubset()
 
 #* Dictionary : a ds which is used to store data in key-value format (for every data entry threre will be key and a value corresponding to that )
+
+player = {
+    "name" : "Virat",
+    "age"  : 38 ,
+    "Team" : "India"
+}
+
+# print(player)
+# player["Ipl"] =  "RCB"
+# print(player)
+# player["age"] = 39
+# print(player)
+# del player["Ipl"]
+# print(player)
+# print(len(player))
+
+# print(player["name"])
+# print(player.get("name"))
+
+#keys 
+# arr = player.keys()
+# print(arr)
+
+# arr = player.keys();
+# arr1= player.values();
+# print(arr)
+# print(arr1)
+
+#*loops
+# arr =  [1,2,3,4,5,6]
+# for i in arr:
+#     print(i)
+
+
+#* functions
+# def sum(a,b):
+#     return a+b;
+
+# print(sum(4,6))
+
+#oops
+
